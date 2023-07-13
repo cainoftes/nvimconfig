@@ -1,0 +1,9 @@
+" 基础配置
+lua require('core.basic')
+lua require('plugins.lazy')
+lua require('core.colorscheme')
+lua require('plugins.lsp')
+lua require('plugins.competitest')
+lua require('plugins.lualine')
+lua require('plugins.bufferline')
+lua require('plugins.tree')
